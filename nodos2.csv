@@ -1,160 +1,160 @@
-source ,target
-anbanelcopadron ,anpersona
-anbanelcopadron ,banelcopadron478
-anbanelcopadron ,dwabm
-ancajadeahorro ,anpersona
-ancajadeahorro ,cadiario
-anconsumostd ,anpersona
-anconsumostd ,banelcopadron478
-anconsumostd ,dwabm
-anctecuentacorr ,anpersona
-anctecuentacorr ,cuentacorr
-ancuentacorr ,anpersona
-ancuentacorr ,cuentacorr
-ancuentacorr ,dwabm
-ancuentacorr ,transacciones
-andomicilioverif  ,apipersonad
-anecheqbaja ,anecheqemitidos
-anecheqemitidos ,anecheqlote
-anecheqemitidos ,anpersona
-anecheqemitidos ,dwabm
-anecheqemitidos ,echeq
-anecheqemitidos ,relcuentaper
-anecheqlote ,anpersona
-anecheqlote ,echeqmasivo
-anfciclientes ,anlksucursal
-anfciclientes ,ANPERSONA
-anfciclientes ,visualfondos
-anfciliquidaciones ,vifondoshist
-anfciliquidaciones ,visualfondos
-anfciposicion ,visualfondos
-anlksucregion ,dwabm
-anlksucursal ,anlksucregion
-anlksucursal ,dwabm
-anpap ,anpap
-anpap ,anpersona
-anpap ,interbankingpap
-anpap ,sipap
-anpap ,trfmsejecucion
-anpapbaja ,anpap
-anpersona ,anctecuentacorr 
-anpersona ,apipersonafull
-anpersona ,apisegmentod
-anplafones ,anpersona
-anplafones ,anrelcuentaperhist
-anplafones ,plafon
-anpreprestamos ,anpersona
-anpreprestamos ,dwabm
-anpreprestamos ,prestamos
-anrelcuentaperhist ,anpersona
-anrelcuentaperhist ,relcuentaper
-anspvseguros ,anpersona
-anspvseguros ,apisegmentod
-anspvseguros ,spvseguros
-antdmovimientos ,anpersona
-antdmovimientos ,transcomprad
-antdmovimientos ,transelectrond
-antransaccionesatm ,anbanelcopadron
-antransaccionesatm ,anpersona
-antransaccionesatm ,relcuentaper
-antransaccionesatm ,transatmd
-consumo ,anpersona
-consumo ,comprashist
-consumo ,dwabm
-consumo ,mtcconsumos
-consumo ,smopcliectas
-consumo ,sosocioscomple
-pinpoint ,apipersonadpin
-pinpoint ,apipersonapin
-pinpoint ,pnptaiml
-pinpoint ,pnptcali
-pinpoint ,pnptcanales
-pinpoint ,pnptctas
-pinpoint ,pnptecheq
-pinpoint ,pnptinversion
-pinpoint ,pnptpap
-pinpoint ,pnptpersona 
-pinpoint ,pnptprestamos
-pinpoint ,pnpttarjecred
-pinpoint ,pnpttarjedebi
-pnptaiml ,apipersona
-pnptaiml ,apipersonad
-pnptaiml ,ml
-pnptaiml ,ml_results
-pnptcali ,apipersona
-pnptcali ,apipersonad
-pnptcali ,calificacion
-pnptcanales ,antransaccionesatm
-pnptcanales ,apipersona
-pnptcanales ,apipersonad
-pnptcanales ,mobile
-pnptcanales ,tokenpush
-pnptcanales ,usuariosobe
-pnptcanales ,usuariosobi
-pnptctas ,ancajadeahorro
-pnptctas ,apipersona
-pnptctas ,apipersonad
-pnptctas ,cadiario
-pnptctas ,cuentacorr
-pnptctas ,obsolicitudusd
-pnptctas ,relcuentaper
-pnptctas ,saldospend
-pnptecheq ,anecheqbaja
-pnptecheq ,anecheqemitidos
-pnptecheq ,apipersona
-pnptecheq ,apipersonad
-pnptinversion ,anfciclientes
-pnptinversion ,anfciliquidaciones
-pnptinversion ,anfciposicion
-pnptinversion ,anspvseguros
-pnptinversion ,apipersona
-pnptinversion ,apipersonad
-pnptinversion ,apipersonafull
-pnptinversion ,cadiario
-pnptinversion ,cdolarcanal
-pnptinversion ,ctacomitente
-pnptinversion ,dwabm
-pnptinversion ,dwhcajaahorro
-pnptinversion ,plfijodiario
-pnptinversion ,relcuentaper
-pnptinversion ,transfbrokers
-pnptinversion ,visualfondos
-pnptpap ,anpap
-pnptpap ,anpapbaja
-pnptpap ,apipersona
-pnptpap ,apipersonad
-pnptpersona  ,acreditacionesps
-pnptpersona  ,andomicilioverif 
-pnptpersona  ,anpersona
-pnptpersona  ,apipersona
-pnptpersona  ,apipersonadpin
-pnptpersona  ,apipersonafull
-pnptpersona  ,apipersonapin
-pnptpersona  ,apisegmentod
-pnptpersona  ,delivery
-pnptpersona  ,dwhindicadores
-pnptpersona  ,liquidacion
-pnptpersona  ,mora
-pnptpersona  ,obdop
-pnptpersona  ,persegmento
-pnptprestamos ,ancuentacorr
-pnptprestamos ,anplafones
-pnptprestamos ,anpreprestamos
-pnptprestamos ,apipersona
-pnptprestamos ,apipersonad
-pnptprestamos ,dwabm
-pnptprestamos ,prestamos
-pnptprestamos ,prestamosco
-pnpttarjecred ,apipersona
-pnpttarjecred ,apipersonad
-pnpttarjecred ,consumo
-pnpttarjecred ,dwhtarjcredito
-pnpttarjedebi ,anconsumostd
-pnpttarjedebi ,antdmovimientos
-pnpttarjedebi ,apipersona
-pnpttarjedebi ,apipersonad
-pnpttarjedebi ,banelcopadron478
-pnpttarjedebi ,banelcopadron481
-pnpttarjedebi ,rubrosspv
-pnpttarjedebi ,transcomprad
-pnpttarjedebi ,transelectrond
+source,target
+anbanelcopadron,anpersona
+anbanelcopadron,banelcopadron478
+anbanelcopadron,dwabm
+ancajadeahorro,anpersona
+ancajadeahorro,cadiario
+anconsumostd,anpersona
+anconsumostd,banelcopadron478
+anconsumostd,dwabm
+anctecuentacorr,anpersona
+anctecuentacorr,cuentacorr
+ancuentacorr,anpersona
+ancuentacorr,cuentacorr
+ancuentacorr,dwabm
+ancuentacorr,transacciones
+andomicilioverif,apipersonad
+anecheqbaja,anecheqemitidos
+anecheqemitidos,anecheqlote
+anecheqemitidos,anpersona
+anecheqemitidos,dwabm
+anecheqemitidos,echeq
+anecheqemitidos,relcuentaper
+anecheqlote,anpersona
+anecheqlote,echeqmasivo
+anfciclientes,anlksucursal
+anfciclientes,ANPERSONA
+anfciclientes,visualfondos
+anfciliquidaciones,vifondoshist
+anfciliquidaciones,visualfondos
+anfciposicion,visualfondos
+anlksucregion,dwabm
+anlksucursal,anlksucregion
+anlksucursal,dwabm
+anpap,anpap
+anpap,anpersona
+anpap,interbankingpap
+anpap,sipap
+anpap,trfmsejecucion
+anpapbaja,anpap
+anpersona,anctecuentacorr
+anpersona,apipersonafull
+anpersona,apisegmentod
+anplafones,anpersona
+anplafones,anrelcuentaperhist
+anplafones,plafon
+anpreprestamos,anpersona
+anpreprestamos,dwabm
+anpreprestamos,prestamos
+anrelcuentaperhist,anpersona
+anrelcuentaperhist,relcuentaper
+anspvseguros,anpersona
+anspvseguros,apisegmentod
+anspvseguros,spvseguros
+antdmovimientos,anpersona
+antdmovimientos,transcomprad
+antdmovimientos,transelectrond
+antransaccionesatm,anbanelcopadron
+antransaccionesatm,anpersona
+antransaccionesatm,relcuentaper
+antransaccionesatm,transatmd
+consumo,anpersona
+consumo,comprashist
+consumo,dwabm
+consumo,mtcconsumos
+consumo,smopcliectas
+consumo,sosocioscomple
+pinpoint,apipersonadpin
+pinpoint,apipersonapin
+pinpoint,pnptaiml
+pinpoint,pnptcali
+pinpoint,pnptcanales
+pinpoint,pnptctas
+pinpoint,pnptecheq
+pinpoint,pnptinversion
+pinpoint,pnptpap
+pinpoint,pnptpersona
+pinpoint,pnptprestamos
+pinpoint,pnpttarjecred
+pinpoint,pnpttarjedebi
+pnptaiml,apipersona
+pnptaiml,apipersonad
+pnptaiml,ml
+pnptaiml,ml_results
+pnptcali,apipersona
+pnptcali,apipersonad
+pnptcali,calificacion
+pnptcanales,antransaccionesatm
+pnptcanales,apipersona
+pnptcanales,apipersonad
+pnptcanales,mobile
+pnptcanales,tokenpush
+pnptcanales,usuariosobe
+pnptcanales,usuariosobi
+pnptctas,ancajadeahorro
+pnptctas,apipersona
+pnptctas,apipersonad
+pnptctas,cadiario
+pnptctas,cuentacorr
+pnptctas,obsolicitudusd
+pnptctas,relcuentaper
+pnptctas,saldospend
+pnptecheq,anecheqbaja
+pnptecheq,anecheqemitidos
+pnptecheq,apipersona
+pnptecheq,apipersonad
+pnptinversion,anfciclientes
+pnptinversion,anfciliquidaciones
+pnptinversion,anfciposicion
+pnptinversion,anspvseguros
+pnptinversion,apipersona
+pnptinversion,apipersonad
+pnptinversion,apipersonafull
+pnptinversion,cadiario
+pnptinversion,cdolarcanal
+pnptinversion,ctacomitente
+pnptinversion,dwabm
+pnptinversion,dwhcajaahorro
+pnptinversion,plfijodiario
+pnptinversion,relcuentaper
+pnptinversion,transfbrokers
+pnptinversion,visualfondos
+pnptpap,anpap
+pnptpap,anpapbaja
+pnptpap,apipersona
+pnptpap,apipersonad
+pnptpersona,acreditacionesps
+pnptpersona,andomicilioverif
+pnptpersona,anpersona
+pnptpersona,apipersona
+pnptpersona,apipersonadpin
+pnptpersona,apipersonafull
+pnptpersona,apipersonapin
+pnptpersona,apisegmentod
+pnptpersona,delivery
+pnptpersona,dwhindicadores
+pnptpersona,liquidacion
+pnptpersona,mora
+pnptpersona,obdop
+pnptpersona,persegmento
+pnptprestamos,ancuentacorr
+pnptprestamos,anplafones
+pnptprestamos,anpreprestamos
+pnptprestamos,apipersona
+pnptprestamos,apipersonad
+pnptprestamos,dwabm
+pnptprestamos,prestamos
+pnptprestamos,prestamosco
+pnpttarjecred,apipersona
+pnpttarjecred,apipersonad
+pnpttarjecred,consumo
+pnpttarjecred,dwhtarjcredito
+pnpttarjedebi,anconsumostd
+pnpttarjedebi,antdmovimientos
+pnpttarjedebi,apipersona
+pnpttarjedebi,apipersonad
+pnpttarjedebi,banelcopadron478
+pnpttarjedebi,banelcopadron481
+pnpttarjedebi,rubrosspv
+pnpttarjedebi,transcomprad
+pnpttarjedebi,transelectrond
